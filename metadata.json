@@ -1,0 +1,6 @@
+{
+  "name": "FloodSense BD",
+  "description": "Real-time flood intelligence for Bangladesh using Gemini AI and NASA datasets (EONET, POWER) for predictive risk assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
